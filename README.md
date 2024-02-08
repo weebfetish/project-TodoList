@@ -1,4 +1,4 @@
-##Kotlin ToDolist App
+## Kotlin ToDolist App
 Are you looking for a simple and elegant way to manage your tasks and stay organized? Do you want to use a modern and powerful Android app that is built with Kotlin and Jetpack Compose? If yes, then you have come to the right place!
 
 Introducing Kotlin ToDolist App, a ToDolist app for Android that allows you to create, edit, delete, and rearrange your tasks with ease. It also uses Room database to store your tasks locally and securely.
