@@ -1,0 +1,5 @@
+<resources>
+    <string name="enter_todo_title">Enter Todo Title</string>
+    <string name="add_todo">Add Todo</string>
+    <string name="delete_done">Delete done</string>
+</resources>
