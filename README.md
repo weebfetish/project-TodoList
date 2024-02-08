@@ -3,7 +3,7 @@ Are you looking for a simple and elegant way to manage your tasks and stay organ
 
 Introducing Kotlin ToDolist App, a ToDolist app for Android that allows you to create, edit, delete, and rearrange your tasks with ease. It also uses Room database to store your tasks locally and securely.
 
-**Features**
+### **Features**
 
 With Kotlin ToDolist App, you can:
 
